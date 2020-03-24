@@ -1,0 +1,26 @@
+.test{
+    padding-top:  20px;
+    text-align: center;
+    background-color: lightcyan;
+    
+    
+  }
+  
+  .test-h1 {
+    background-color: lightcyan;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font: 1em ;
+  }
+  .test-Gh {
+    background-color: lightcyan;
+    text-align: center;
+    width: auto;
+    height:  auto;
+    margin:  auto;
+  }
+  .test-back{
+    text-align: center;
+    background-color: lightcyan;
+  }
+  
